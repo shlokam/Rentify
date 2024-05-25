@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/example/rentify/Entity/" kind="src" path="rentifyBackend/src/main/java"/>
+	<classpathentry kind="src" path="rentifyBackend/src/main/java/com/example/rentify/Entity"/>
+	<classpathentry kind="src" path="rentifyBackend/src/test/java"/>
+	<classpathentry kind="output" path="rentifyBackend/target/classes"/>
+</classpath>
